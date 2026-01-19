@@ -3,7 +3,8 @@
 A C++ based logistics and parcel management system using:
 Heap
 Hash Table
-Graph
+Graph 
+Array List
 Linked List
 Stack 
 Queue
