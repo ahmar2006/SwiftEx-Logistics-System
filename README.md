@@ -1,8 +1,8 @@
-# \# Swift-Ex: Advanced Logistics \& Courier Management System
+# \# Swift-Ex Logistics: Advanced Logistics \& Courier Management System
 
 # 
 
-# \*\*Swift-Ex\*\* is a high-performance C++ logistics application designed to simulate a modern courier service. It handles the entire parcel lifecycle—from intake and priority sorting to dynamic routing and real-time delivery tracking—using custom-built Data Structures and Algorithms.
+# \*\*Swift-Ex Logistics\*\* is a high-performance C++ logistics application designed to simulate a modern courier service. It handles the entire parcel lifecycle—from intake and priority sorting to dynamic routing and real-time delivery tracking—using custom-built Data Structures and Algorithms.
 
 
 
