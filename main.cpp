@@ -24,8 +24,7 @@ const int STATUS_RETURNED = 6;
 const int STATUS_MISSING = 7;
 const int STATUS_CANCELLED = 8;
 
-void clearScreen() 
-{
+void clearScreen() {
     system(CLEAR_CMD);
 }
 
